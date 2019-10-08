@@ -10,5 +10,6 @@ append.push("Odie");
 
 prepend.unshift("Odie")
 
-append
-append
+removeLast
+
+removeFirst 
